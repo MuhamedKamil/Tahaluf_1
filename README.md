@@ -2,7 +2,7 @@
 ------------
 This project consists of two approaches to extract entities from text, statistical and transformer based.
 
-For more details about Data preprocessing techniques and the comparison of the results between the two approaches, please check the attached document in the repo.
+For more details about Data preprocessing techniques and the comparison of the results between the two approaches, evaluation please check the attached document.pdf in the repo.
 
 ------------
 Installation
