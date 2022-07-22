@@ -1,0 +1,1059 @@
+<DOC>
+<DOCID> nyt960108.0493 </DOCID>
+<STORYID cat=a pri=u> A5852 </STORYID>
+<SLUG fv=sci-z> BC-BALLOON-RACE-2ndTAKE- </SLUG>
+<DATE> <TIMEX TYPE="DATE">01-08</TIMEX> </DATE>
+<NWORDS> 0745 </NWORDS>
+<PREAMBLE>
+BC-BALLOON-RACE-2ndTAKE-NYT
+UNDATED: daylight hours.</PREAMBLE>
+<TEXT>
+<p>
+   Shortly after <ENAMEX TYPE="PERSON">Fossett</ENAMEX>'s launching <TIMEX TYPE="DATE">Monday</TIMEX> his competitors sent
+him telegrams of congratulation.
+<p>
+   The British balloon, called the <ENAMEX TYPE="ORGANIZATION">Virgin</ENAMEX> Global Challenger, is to
+be flown by <ENAMEX TYPE="PERSON">Richard Branson</ENAMEX>, chairman of <ENAMEX TYPE="ORGANIZATION">Virgin Atlantic Airways</ENAMEX>;
+<ENAMEX TYPE="PERSON">Per Lindstrand</ENAMEX>, chairman of <ENAMEX TYPE="ORGANIZATION">Lindstrand Balloons Ltd.</ENAMEX> of <ENAMEX TYPE="LOCATION">Oswestry</ENAMEX>,
+<ENAMEX TYPE="LOCATION">England</ENAMEX>, and an Irish balloonist, <ENAMEX TYPE="PERSON">Rory McCarthy</ENAMEX>.
+<p>
+   <ENAMEX TYPE="PERSON">Branson</ENAMEX> and <ENAMEX TYPE="PERSON">Lindstrand</ENAMEX>, who have set several ballooning records,
+were the first pilots of hot-air balloons to cross both the
+<ENAMEX TYPE="LOCATION">Atlantic Ocean</ENAMEX>, in <TIMEX TYPE="DATE">1987</TIMEX>, and the <ENAMEX TYPE="LOCATION">Pacific</ENAMEX>, in <TIMEX TYPE="DATE">1991</TIMEX>.
+<p>
+   <ENAMEX TYPE="PERSON">Lindstrand</ENAMEX> said that because of unfavorable weather patterns
+over <ENAMEX TYPE="LOCATION">England</ENAMEX> he and his colleagues had decided to launch their
+<ENAMEX TYPE="ORGANIZATION">Virgin</ENAMEX> Global Challenger from a military airfield at <ENAMEX TYPE="LOCATION">Marrakech</ENAMEX>,
+<ENAMEX TYPE="LOCATION">Morocco</ENAMEX>.
+<p>
+   To move the big crew capsule, balloon and accessories, the
+British group chartered a Beluga transport plane  &MD;  a modified
+<ENAMEX TYPE="ORGANIZATION">Airbus</ENAMEX> 300 similar to the Pregnant Guppy aircraft used by <ENAMEX TYPE="ORGANIZATION">NASA</ENAMEX> to
+transport large rocket components. The flight to <ENAMEX TYPE="LOCATION">Morocco</ENAMEX> is
+scheduled for <TIMEX TYPE="DATE">Friday</TIMEX>, and <ENAMEX TYPE="PERSON">Lindstrand</ENAMEX> said the balloon launching
+would probably take place <TIMEX TYPE="DATE">a day or so later</TIMEX>.
+<p>
+   <ENAMEX TYPE="PERSON">Branson</ENAMEX>, chairman of the multifaceted <ENAMEX TYPE="ORGANIZATION">Virgin Group</ENAMEX>, which
+includes <ENAMEX TYPE="ORGANIZATION">Virgin Atlantic Airways</ENAMEX>, believes that his competitor,
+<ENAMEX TYPE="PERSON">Fossett</ENAMEX>, faces grave risks.
+<p>
+   ``Because his capsule is not pressurized,'' <ENAMEX TYPE="PERSON">Branson</ENAMEX> said in an
+interview, ``<ENAMEX TYPE="PERSON">Steve</ENAMEX> will have to stay at around 20,000 feet, which
+is usually well below the core of the jet stream. That could slow
+him down a lot. We will be at 30,000 to 35,000 feet, where our
+chances of riding the high-speed jet stream are much better.
+<p>
+   ``<ENAMEX TYPE="PERSON">Steve</ENAMEX> is incredibly brave, and if anyone should beat us, I'd
+rather it was he.''
+<p>
+   The Dutch team, led by <ENAMEX TYPE="PERSON">Henk Brink</ENAMEX>, recently tested the inflation
+of its <ENAMEX TYPE="ORGANIZATION">Unicef</ENAMEX> Flyer balloon at <ENAMEX TYPE="LOCATION">Cape Kennedy</ENAMEX> in <ENAMEX TYPE="ORGANIZATION">NASA</ENAMEX>'s huge Vehicle
+Assembly Building, where space shuttles are prepared for flight.
+<ENAMEX TYPE="PERSON">Brink</ENAMEX>, who intends to launch his balloon from <ENAMEX TYPE="LOCATION">Nijmegen</ENAMEX>, <ENAMEX TYPE="LOCATION">the
+Netherlands</ENAMEX>, is a helicopter instructor and veteran balloonist.
+<p>
+   In <TIMEX TYPE="DATE">1986</TIMEX>, he, his wife, <ENAMEX TYPE="PERSON">Evelien</ENAMEX>, and <ENAMEX TYPE="PERSON">William Hageman</ENAMEX>, a Dutch
+fighter pilot, became the first European balloonists to cross the
+<ENAMEX TYPE="LOCATION">Atlantic</ENAMEX>; so precise was their navigation that they landed within a
+few miles of <ENAMEX TYPE="PERSON">Brink</ENAMEX>'s home in <ENAMEX TYPE="LOCATION">the Netherlands</ENAMEX>.
+<p>
+   Although balloons must travel in the same direction as the wind
+that carries them along, a pilot can navigate to some extent by
+changing altitude to seek wind headed in the desired direction.
+Even a small change in altitude can result in a large change in
+direction.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Unicef</ENAMEX> Flyer flight suffered a setback <TIMEX TYPE="DATE">Dec. 26</TIMEX> when its
+third crew member, <ENAMEX TYPE="PERSON">Wouter Bakker</ENAMEX>, resigned from the flight crew
+``for personal reasons.''
+<p>
+   Days before the expected launching <TIMEX TYPE="DATE">this week</TIMEX>, <ENAMEX TYPE="PERSON">Brink</ENAMEX> said in an
+interview that he had advertised for a replacement, stipulating
+that the third crew member should be an airline captain.
+<p>
+   ``We're down to three candidates,'' <ENAMEX TYPE="PERSON">Brink</ENAMEX> said <TIMEX TYPE="DATE">Friday</TIMEX>, ``and all
+of them are completely familiar with our navigation and
+communication equipment. For the launch and landing, I will do the
+piloting.''
+<p>
+   All three teams are flying Rozier balloons  &MD;  a type that has
+achieved many long-distance records in recent years.
+<p>
+   A modern Rozier is kept aloft by helium gas, but to add extra
+lift, the balloon is compartmentalized and the lower part can be
+filled with hot air from a gas burner. This enables the balloon to
+maintain altitude at night, when cold air and the lack of sunlight
+cools the helium and lessens its lifting power.
+<p>
+   Since the first manned balloon flight in <TIMEX TYPE="DATE">1783</TIMEX> by <ENAMEX TYPE="PERSON">Jean Francois
+Pilatre de Rozier</ENAMEX> and the Marquis <ENAMEX TYPE="PERSON">Francois Laurent d'Arlandes</ENAMEX> in a
+Montgolfier hot-air balloon, many balloonists have attempted
+round-the-world flights, but all have failed, and some have died
+trying.
+<p>
+   Five unsuccessful attempts were made by a single team led by
+<ENAMEX TYPE="PERSON">Larry Newman</ENAMEX> of <ENAMEX TYPE="LOCATION">Scottsdale</ENAMEX>, <ENAMEX TYPE="LOCATION">Ariz.</ENAMEX>, in his <ENAMEX TYPE="ORGANIZATION">Earthwinds</ENAMEX> balloon before
+<ENAMEX TYPE="PERSON">Newman</ENAMEX> abandoned his efforts <TIMEX TYPE="DATE">one year ago</TIMEX>.
+<p>
+   The Rozier balloon is named after its inventor, who was forced
+to use inflammable hydrogen in his <TIMEX TYPE="DATE">18th-century</TIMEX> version, since a
+century was to pass before the discovery of nonflammable helium.
+<ENAMEX TYPE="PERSON">Rozier</ENAMEX> was killed in <TIMEX TYPE="DATE">1785</TIMEX> while trying to cross the <ENAMEX TYPE="LOCATION">English
+Channel</ENAMEX>; his hydrogen-and-hot-air hybrid balloon caught fire and
+crashed.
+<p>
+   From <TIMEX TYPE="DATE">that time</TIMEX> until <TIMEX TYPE="DATE">1960</TIMEX>, balloonists relied almost exclusively
+on hydrogen or helium for lift, since hot-air burners were regarded
+as too dangerous.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">01-08-96</TIMEX> <TIMEX TYPE="TIME">1751EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960131.0611 </DOCID>
+<STORYID cat=a pri=u> A9510 </STORYID>
+<SLUG fv=taf-z> BC-<ENAMEX TYPE="PERSON">HILL</ENAMEX>-OBIT-NYT </SLUG>
+<DATE> &LR; </DATE>
+<NWORDS> <TIMEX TYPE="DATE">01-31</TIMEX> </NWORDS>
+<PREAMBLE>
+BC-<ENAMEX TYPE="PERSON">HILL</ENAMEX>-OBIT-NYT
+(<ENAMEX TYPE="LOCATION">Del.</ENAMEX>, <ENAMEX TYPE="LOCATION">Calif.</ENAMEX>, <ENAMEX TYPE="LOCATION">Mo.</ENAMEX>, <ENAMEX TYPE="LOCATION">Mass.</ENAMEX>, <ENAMEX TYPE="LOCATION">Pa.</ENAMEX> ATTN)
+<ENAMEX TYPE="PERSON">JULIAN HILL</ENAMEX>, 91, WHO DISCOVERED NYLON
+(lb)
+By <ENAMEX TYPE="PERSON">DAVID STOUT</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="PERSON">Julian Hill</ENAMEX>, a research chemist whose accidental discovery of a
+tough, taffylike compound revolutionized everyday life after it
+proved its worth in warfare and courtship, died on <TIMEX TYPE="DATE">Sunday</TIMEX> in
+<ENAMEX TYPE="LOCATION">Hockessin</ENAMEX>, <ENAMEX TYPE="LOCATION">Del.</ENAMEX> He was 91.
+<p>
+   <ENAMEX TYPE="PERSON">Hill</ENAMEX> died at the <ENAMEX TYPE="LOCATION">Cokesbury Village</ENAMEX> retirement community, where
+he had lived in recent years with his wife of <TIMEX TYPE="DATE">62 years</TIMEX>, <ENAMEX TYPE="PERSON">Polly</ENAMEX>.
+<p>
+   During <TIMEX TYPE="DATE">the late 1920s</TIMEX>, <ENAMEX TYPE="PERSON">Hill</ENAMEX> was a member of a <ENAMEX TYPE="ORGANIZATION">Du Pont Co.</ENAMEX> team
+studying the behavior of certain molecules that chain together to
+form larger ones, called polymers. The chemists were engaged in
+pure research, though finding a substitute for silk was in the back
+of their minds.
+<p>
+   In <TIMEX TYPE="DATE">1930</TIMEX>, while trying to create ever larger structures by
+adjusting the amount of water in a batch of carbon- and
+alcohol-based molecules, the team came up with a concoction that <ENAMEX TYPE="ORGANIZATION">Du
+Pont</ENAMEX>'s research head, <ENAMEX TYPE="PERSON">Wallace Carothers</ENAMEX>, thought useless.
+<p>
+   But <ENAMEX TYPE="PERSON">Hill</ENAMEX> was intrigued after sticking a heated glass rod into a
+beaker containing the material and finding that it stretched and
+pulled, like taffy, and that it became silky when stretched at room
+temperature. Soon, <ENAMEX TYPE="PERSON">Hill</ENAMEX> and his colleagues were playing with the
+material in the corridor and finding that it could be shaped into
+strands that were remarkably long and strong.
+<p>
+   The substance, of course, was nylon, although it would not be so
+named until it was introduced at the <TIMEX TYPE="DATE">1939</TIMEX> World's Fair in <ENAMEX TYPE="LOCATION">New York</ENAMEX>
+ &MD;  hence, the ``ny'' in nylon.
+<p>
+   ``I tell my wife I was something better than a good scientist,''
+<ENAMEX TYPE="PERSON">Hill</ENAMEX> recalled in an interview years later. ``I was lucky.'' Since
+<ENAMEX TYPE="ORGANIZATION">Du Pont</ENAMEX> held the patents to nylon, <ENAMEX TYPE="PERSON">Hill</ENAMEX> made no great fortune off
+the discovery, but his wife said <TIMEX TYPE="DATE">Wednesday</TIMEX> that the company had
+treated him well over the years.
+<p>
+   (A sad footnote is the fate of <ENAMEX TYPE="PERSON">Carothers</ENAMEX>. Beset by personal
+problems that fueled depression, thinking himself a failure despite
+a brilliant career, he committed suicide in <TIMEX TYPE="DATE">1937</TIMEX> at the age of 41.)
+<p>
+   If the development of nylon was in part serendipity, it was not
+a total surprise. Almost a <TIMEX TYPE="DATE">decade earlier</TIMEX>, at an <ENAMEX TYPE="ORGANIZATION">American Chemical
+Society</ENAMEX> conference in <ENAMEX TYPE="LOCATION">Buffalo</ENAMEX>, <ENAMEX TYPE="LOCATION">N.Y.</ENAMEX>, <ENAMEX TYPE="PERSON">Hill</ENAMEX> and <ENAMEX TYPE="PERSON">Carothers</ENAMEX> reported on
+progress in developing ``artificial silks'' like rayon, which was
+then coming into use.
+<p>
+   But rayon is derived from cellulose and in that sense is not
+strictly synthetic, as is nylon. Nylon was used initially for
+toothbrush bristles, fishing line and surgical sutures. Nylon
+stockings were first sold in <TIMEX TYPE="DATE">1939</TIMEX>. They cost twice what silk
+stockings did, and women were happy to pay. Nylon stockings were
+sheer and strong.
+<p>
+   The material was deemed so important that its use was restricted
+to the military after the <ENAMEX TYPE="LOCATION">United States</ENAMEX> entered World War II. Nylon
+was used to make rope, tents, aircraft tires and parachutes.
+<p>
+   It also served to improve British-<ENAMEX TYPE="LOCATION">U.S.</ENAMEX> relations, in a way.
+Young American soldiers stationed in <ENAMEX TYPE="LOCATION">Britain</ENAMEX> made a good impression
+on their dates by giving them nylon stockings, available from the
+military's post exchanges when they could not be bought elsewhere.
+<p>
+   The reintroduction of nylon to civilian life after the war
+caused a sensation, and at least one stampede. A crowd of 10,000
+people jammed a <ENAMEX TYPE="LOCATION">San Francisco</ENAMEX> department store in <TIMEX TYPE="DATE">1945</TIMEX>, causing the
+nylon sale to be called off.
+<p>
+   In <TIMEX TYPE="DATE" MIN="decades">the decades since</TIMEX>, nylon has become ubiquitous, as carpeting
+and clothing. And about two-thirds of all the luggage manufactured
+in the world is made from it.
+<p>
+   Scientists consider nylon a benign product of technology,
+because it has not been found to have any deadly side effects. But
+<ENAMEX TYPE="PERSON">Hill</ENAMEX>, who loved wildlife and was a dedicated bird-watcher, said in
+a <TIMEX TYPE="DATE">1988</TIMEX> interview that he thought ``the human race is going to
+perish by being smothered in plastic.''
+<p>
+   <ENAMEX TYPE="PERSON">Julian Werner Hill</ENAMEX> was born in <ENAMEX TYPE="LOCATION">St. Louis</ENAMEX>, graduated from
+<ENAMEX TYPE="ORGANIZATION">Washington University</ENAMEX> there in <TIMEX TYPE="DATE">1924</TIMEX> and earned a doctorate in
+organic chemistry from the <ENAMEX TYPE="ORGANIZATION">Massachusetts Institute of Technology</ENAMEX> in
+<TIMEX TYPE="DATE">1928</TIMEX>. His wife recalled on <TIMEX TYPE="DATE">Wednesday</TIMEX> that his doctoral studies were
+delayed a year because he was stricken with scarlet fever.
+<p>
+   <ENAMEX TYPE="PERSON">Hill</ENAMEX> played the violin and was an accomplished squash player and
+figure-skater until <TIMEX TYPE="DATE">his early 40s</TIMEX>, when an attack of polio weakened
+one leg, his wife said.
+<p>
+   Before his retirement from <ENAMEX TYPE="ORGANIZATION">Du Pont</ENAMEX> in <TIMEX TYPE="DATE">1964</TIMEX>, <ENAMEX TYPE="PERSON">Hill</ENAMEX> supervised the
+company's program of aid to universities for research in physics
+and chemistry.
+<p>
+   Surviving besides his wife are a daughter, <ENAMEX TYPE="PERSON">Louisa Spottswood</ENAMEX> of
+<ENAMEX TYPE="LOCATION">Philadelphia</ENAMEX>; two sons, <ENAMEX TYPE="PERSON">Joseph</ENAMEX>, of <ENAMEX TYPE="LOCATION">Villanova</ENAMEX>, <ENAMEX TYPE="LOCATION">Pa.</ENAMEX>, and <ENAMEX TYPE="PERSON">Jefferson</ENAMEX>,
+of <ENAMEX TYPE="LOCATION">Washington</ENAMEX>, and five grandchildren.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">01-31-96</TIMEX> <TIMEX TYPE="TIME">1910EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960207.0657 </DOCID>
+<STORYID cat=f pri=r> A6958 </STORYID>
+<SLUG fv=tia-z> BC-DOMINICAN-AIR-CRASH-U </SLUG>
+<DATE> <TIMEX TYPE="DATE">02-07</TIMEX> </DATE>
+<NWORDS> 0674 </NWORDS>
+<PREAMBLE>
+BC-DOMINICAN-AIR-CRASH-UPDATE2-BLOOM
+<ENAMEX TYPE="ORGANIZATION">BOEING</ENAMEX> AIRLINER CRASHES IN <ENAMEX TYPE="LOCATION">CARIBBEAN</ENAMEX> WITH 189 ABOARD (UPDATE2)
+(For use by <ENAMEX TYPE="ORGANIZATION">New York Times News Service</ENAMEX> clients)
+By <ENAMEX TYPE="PERSON">Michael Molinski</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">Bloomberg Business News</ENAMEX>
+   (Updates with latest body total, no survivors found; adds that
+search was called off for <TIMEX TYPE="TIME">the night</TIMEX>, with in second and third
+paragraphs; adds report that lightning stuck the craft, <ENAMEX TYPE="ORGANIZATION" MIN="Foreign Ministry">German
+Foreign Ministry</ENAMEX> comment response, in seventh paragraph.)
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">Santo Domingo</ENAMEX>, <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>, <TIMEX TYPE="DATE">Feb. 7</TIMEX> (<ENAMEX TYPE="ORGANIZATION">Bloomberg</ENAMEX>) -- A
+chartered <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 carrying German tourists from the <ENAMEX TYPE="LOCATION">Dominican
+Republic</ENAMEX> crashed into the <ENAMEX TYPE="LOCATION" MIN="Caribbean">Caribbean sea</ENAMEX> <TIMEX TYPE="TIME">last night</TIMEX>, leaving no sign
+that any of the 189 people on board survived.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">U.S. Coast Guard</ENAMEX> in <ENAMEX TYPE="LOCATION">Miami</ENAMEX> said it recovered 79 bodies in the
+area of the crash, before suspending its search at <TIMEX TYPE="TIME">nightfall</TIMEX> <TIMEX TYPE="DATE">today</TIMEX>.
+It plans to continue the search in the <TIMEX TYPE="TIME">morning</TIMEX>.
+<p>
+   ``We'll continue searching until there is reason to believe
+there are no survivors,'' said Petty Officer <ENAMEX TYPE="PERSON">Scott Carr</ENAMEX>, a
+spokesman for the <ENAMEX TYPE="ORGANIZATION">Coast Guard</ENAMEX>, <TIMEX TYPE="TIME">this evening</TIMEX>. ``We still maintain
+hope that somebody is out there and we will try to find them.''
+<p>
+   Searchers did find some life rafts, but no survivors, the <ENAMEX TYPE="ORGANIZATION">Coast
+Guard</ENAMEX> said. It wasn't clear whether the rafts were dragged out by
+survivors or if they inflated on impact.
+<p>
+   <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> and <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX> officials said the cause of the
+crash was unknown. The owner of the German tour agency that
+chartered the plane was quoted by <ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX> as saying lightning
+struck the <ENAMEX TYPE="LOCATION">Frankfurt</ENAMEX>-bound 757.
+<p>
+   <ENAMEX TYPE="PERSON">Vural Oeger</ENAMEX>, head of <ENAMEX TYPE="LOCATION">Hamburg</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Oeger Tours</ENAMEX>, said he was told
+by Dominican aviation officials that the plane's engines were
+damaged by lightning. <ENAMEX TYPE="ORGANIZATION">Reuters</ENAMEX> also said the pilots apparently tried
+to turn the plane around to return to the airport, but were unable
+to and plunged into the <ENAMEX TYPE="LOCATION">Caribbean</ENAMEX>.
+<p>
+   A spokeswoman for the <ENAMEX TYPE="ORGANIZATION" MIN="Foreign Ministry">German Foreign Ministry</ENAMEX> said that while
+she'd heard rumors of lightning causing the wreck, she couldn't
+confirm the reports.
+<p>
+   The plane crashed just before <TIMEX TYPE="TIME">midnight local time</TIMEX> <TIMEX TYPE="DATE|TIME">last night</TIMEX>,
+about five minutes after taking off from the <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX> airport
+in the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>. <ENAMEX TYPE="ORGANIZATION">Coast Guard</ENAMEX> officials said rain and
+sharks were hampering the rescue efforts.
+<p>
+   A spokesman for the <ENAMEX TYPE="LOCATION">Seattle</ENAMEX>-based <ENAMEX TYPE="ORGANIZATION">Boeing Co.</ENAMEX> said it was sending
+a team to help investigate the crash.
+<p>
+   The aircraft, owned by Turkish company <ENAMEX TYPE="ORGANIZATION">Birgen Air</ENAMEX>, was leased to
+<ENAMEX TYPE="ORGANIZATION">Alas de Transporte Internacional</ENAMEX>, a Dominican charter airline that
+operates mainly during <TIMEX TYPE="DATE" MIN="winter">the peak winter season</TIMEX> when European
+tourists visit the resort town of <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX>, said a spokeswoman
+for <ENAMEX TYPE="ORGANIZATION">Aeronautica Civil</ENAMEX>, the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>'s aviation agency.
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Oeger</ENAMEX> had chartered the plane from <ENAMEX TYPE="ORGANIZATION">Alas</ENAMEX>.
+<p>
+   The aircraft, built in <TIMEX TYPE="DATE">1985</TIMEX>, carried 176 passengers, most of
+them German tourists, and 13 crew members -- 11 Turkish nationals
+and two Dominicans.
+<p>
+   <ENAMEX TYPE="PERSON">Russ Young</ENAMEX>, a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> spokesman, said the investigation could
+last weeks or months.
+<p>
+   The jet was the 31st <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 made and was originally sold to
+<ENAMEX TYPE="ORGANIZATION">Eastern Air Lines</ENAMEX>, of <ENAMEX TYPE="LOCATION">Miami</ENAMEX>, which became a subsidiary of <ENAMEX TYPE="ORGANIZATION">Texas Air
+Corp.</ENAMEX> after filing for bankruptcy in <TIMEX TYPE="DATE">1989</TIMEX>.
+<p>
+   <ENAMEX TYPE="PERSON">Martin Brodie</ENAMEX>, a spokesman for <ENAMEX TYPE="ORGANIZATION">Rolls-Royce Plc</ENAMEX> in <ENAMEX TYPE="LOCATION">London</ENAMEX>, said
+the plane was fitted with <ENAMEX TYPE="ORGANIZATION">Rolls-Royce</ENAMEX> RB211-535 engines. He said
+the power plant was ``one of the most reliable engines in
+service.''
+<p>
+   The company had no idea yet what went wrong and there was no
+immediate evidence that the engines were to blame.
+<p>
+   The crash was the second of a 757 in less than <TIMEX TYPE="DATE">two months</TIMEX>. On
+<TIMEX TYPE="DATE">Dec. 20</TIMEX>, an <ENAMEX TYPE="ORGANIZATION">American Airlines</ENAMEX> jet crashed in the mountains near
+<ENAMEX TYPE="LOCATION">Cali</ENAMEX>, <ENAMEX TYPE="LOCATION">Colombia</ENAMEX>, killing 160 of the 164 people on board. The cause
+of that crash is still under investigation.
+<p>
+   The <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>, which shares the island of <ENAMEX TYPE="LOCATION">Hispaniola</ENAMEX>
+with <ENAMEX TYPE="LOCATION">Haiti</ENAMEX>, is the most popular <ENAMEX TYPE="LOCATION">Caribbean</ENAMEX> destination for Germans.
+Hundreds of thousands of German tourists visit the island each
+year, attracted by its low prices and tropical beaches.
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Oeger</ENAMEX> is one of a number of discount tour agencies in <ENAMEX TYPE="LOCATION">Germany</ENAMEX>
+which charters planes to the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">02-07-96</TIMEX> <TIMEX TYPE="TIME">2013EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960208.0062 </DOCID>
+<STORYID cat=i pri=u> A7267 </STORYID>
+<SLUG fv=taf-z> BC-DOMINICAN-CRASH-ART-2 </SLUG>
+<DATE> <TIMEX TYPE="DATE">02-08</TIMEX> </DATE>
+<NWORDS> 0877 </NWORDS>
+<PREAMBLE>
+BC-DOMINICAN-CRASH-ART-2NDLD-WRITETHRU-650&AMP;ADD-NYT
+(Subs 1st graf to update number of bodies recovered)
+GERMAN TOURIST PLANE CRASHES; 189 FEARED DEAD
+(ART ADV: Graphic and locator-map have been sent to <ENAMEX TYPE="ORGANIZATION">NYT</ENAMEX> graphic
+clients. Non-subscribers can make individual purchase by calling
+212-556-4204 or 1927.)
+(JT)
+By <ENAMEX TYPE="PERSON">MATTHEW L. WALD</ENAMEX> 
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX> 
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">WASHINGTON</ENAMEX>  &MD;  A <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 carrying 189 people, mostly tourists
+on their way home to <ENAMEX TYPE="LOCATION">Berlin</ENAMEX> and <ENAMEX TYPE="LOCATION">Frankfurt</ENAMEX> from the <ENAMEX TYPE="LOCATION">Dominican
+Republic</ENAMEX>, crashed into the <ENAMEX TYPE="LOCATION">Atlantic</ENAMEX> <TIMEX TYPE="DATE">late Tuesday</TIMEX> about 13 miles
+offshore. At least 105 bodies were recovered, American officials
+said.
+<p>
+   Debris was spread in an area two miles long and 150 yards wide,
+the <ENAMEX TYPE="ORGANIZATION">United States Coast Guard</ENAMEX> said, suggesting that the jet broke
+up before it hit the water.
+<p>
+   But an official at the <ENAMEX TYPE="ORGANIZATION">German Embassy</ENAMEX> in <ENAMEX TYPE="LOCATION">Santo Domingo</ENAMEX>, the
+capital of the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>, said the fuel had not caught
+fire, indicating that the plane had not exploded.
+<p>
+   The official, the first secretary at the embassy, said bad
+weather was likely the cause.
+<p>
+   ``More than <NUMEX TYPE="PERCENT">50 percent</NUMEX>, it was the interference of bad
+weather,'' the official, <ENAMEX TYPE="PERSON">Klaus D. Brock</ENAMEX>, said in a telephone
+interview. The plane had taken off from <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX>, about 100
+miles northwest of <ENAMEX TYPE="LOCATION">Santo Domingo</ENAMEX>.
+<p>
+   The crash was the second recent loss of a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 in flight:
+In <TIMEX TYPE="DATE">December</TIMEX> a 757 crashed near <ENAMEX TYPE="LOCATION">Cali</ENAMEX>, <ENAMEX TYPE="LOCATION">Colombia</ENAMEX>; pilot error appears
+to have been the primary cause.
+<p>
+   Aviation officials in <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX> gave conflicting information
+<TIMEX TYPE="DATE">Wednesday</TIMEX> about the flight, which reached an altitude of about
+7,000 feet before crashing.
+<p>
+   Gen. <ENAMEX TYPE="PERSON">Hector Ramon</ENAMEX>, head of the civil aviation agency, said the
+pilot had radioed the tower that he had a problem and was
+returning, news reports said. But Maj. <ENAMEX TYPE="PERSON">Emmanuel Souffront</ENAMEX>, of the
+<ENAMEX TYPE="ORGANIZATION">Dominican Air Force</ENAMEX>, said a transcript of radio communication with
+air traffic controllers indicated there had not been a problem.
+<p>
+   ``The aircraft started to turn to the right and disappeared from
+the radar screen,'' he was quoted as saying.
+<p>
+   ``Before it went down, someone radioed from the aircraft, `Stand
+by.'''
+<p>
+   In <ENAMEX TYPE="LOCATION">Berlin</ENAMEX> and <ENAMEX TYPE="LOCATION">Frankfurt</ENAMEX>, friends and family of the passengers
+arrived at the airports to find flags flying at half staff and
+teams of doctors, psychologists and clergy to meet them.
+<p>
+   The 11-year-old plane, originally built for <ENAMEX TYPE="ORGANIZATION">Eastern Air Lines</ENAMEX>,
+was owned by a Turkish company and under lease, with a crew, to a
+Dominican airline, <ENAMEX TYPE="ORGANIZATION">Alas de Transporte Internacional</ENAMEX>, for a single
+flight. It carried 176 passengers, including 4 children. Eleven of
+the crew were Turkish and two Dominican.
+<p>
+   The Turkish company, <ENAMEX TYPE="ORGANIZATION">Birgen Air</ENAMEX>, was using the plane to fill a
+charter commitment to a German company, <ENAMEX TYPE="ORGANIZATION">Oger Tours</ENAMEX> of <ENAMEX TYPE="LOCATION">Hamburg</ENAMEX>.
+<ENAMEX TYPE="PERSON">Wolfgang Schwalm</ENAMEX>, a spokesman for the <ENAMEX TYPE="LOCATION">Frankfurt</ENAMEX> airport, said the
+<ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 had replaced a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 767 at the last minute because the
+767 had technical problems.
+<p>
+   In <ENAMEX TYPE="LOCATION">Istanbul</ENAMEX>, the general manager of <ENAMEX TYPE="ORGANIZATION">Birgen</ENAMEX> said on television
+that he believed the plane had been hit by lightning. But the jet
+is designed to withstand any such strikes.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">United States Coast Guard</ENAMEX> dispatched three cutters to help
+retrieve bodies. <ENAMEX TYPE="LOCATION">Germany</ENAMEX> sent two civil aviation officials and
+three officials from the federal police in <ENAMEX TYPE="LOCATION">Weisbaden</ENAMEX> to help
+identify bodies.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Federal Aviation Administration</ENAMEX> said it would send experts
+to assist investigators, and the <ENAMEX TYPE="ORGANIZATION">National Transportation Safety
+Board</ENAMEX> said it would send investigators if more evidence became
+available.
+<p>
+   But it was not clear who would pay to retrieve the plane's data
+recorder from the wreckage, off the north coast of the <ENAMEX TYPE="LOCATION">Dominican
+Republic</ENAMEX> where the water is about 3,000 feet deep. Retrieval could
+cost <NUMEX TYPE="MONEY">hundreds of thousands of dollars</NUMEX>. Though the plane was
+American built, neither it nor the airline nor the flight was under
+American jurisdiction, and no Americans were on board.
+<p>
+   Nevertheless, American safety experts said they would be very
+interested in learning more about the crash if it was caused by
+mechanical problems or by weather.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">02-08-96</TIMEX> <TIMEX TYPE="TIME">0216EST</TIMEX>
+</TRAILER>
+</DOC>
+
+<DOC>
+<DOCID> nyt960208.0763 </DOCID>
+<STORYID cat=i pri=u> A8248 </STORYID>
+<SLUG fv=taf-z> BC-DOMINICAN-CRASH-NYT </SLUG>
+<DATE> &LR; </DATE>
+<NWORDS> <TIMEX TYPE="DATE">02-08</TIMEX> </NWORDS>
+<PREAMBLE>
+BC-DOMINICAN-CRASH-NYT
+<ENAMEX TYPE="ORGANIZATION">NAVY</ENAMEX> TO HUNT FOR BLACK BOX FROM AIR CRASH
+(HLW)
+By <ENAMEX TYPE="PERSON">MATTHEW L. WALD</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">UPPER MARLBORO</ENAMEX>, <ENAMEX TYPE="LOCATION">Md.</ENAMEX>  &MD;  The <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> said here on <TIMEX TYPE="DATE">Thursday</TIMEX> that it had
+shipped equipment to the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX> to help find the flight
+data recorder of the <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 that crashed offshore on <TIMEX TYPE="DATE">Tuesday</TIMEX>
+<TIMEX TYPE="TIME">night</TIMEX>, killing all 189 people on board.
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> officials said they had been asked to locate the so-called
+black box, but so far have not been asked to help retrieve it or
+any other parts of the wreckage. In the meantime, discussions
+continued about who would pay to salvage parts of the jet.
+<p>
+   The Turkish-owned charter jet, which was leased to a Dominican
+airline, was carrying German tourists home from a <ENAMEX TYPE="LOCATION">Caribbean</ENAMEX>
+vacation when it plunged into the <ENAMEX TYPE="LOCATION">Atlantic</ENAMEX> shortly after takeoff
+from <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX> in the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>.
+<p>
+   <TIMEX TYPE="TIME">Late on Thursday afternoon</TIMEX> in <ENAMEX TYPE="LOCATION">Puerto Plata</ENAMEX>, the <ENAMEX TYPE="ORGANIZATION">Coast Guard</ENAMEX> said
+it had given up its search, and it remained uncertain exactly how
+many bodies had been accounted for.
+<p>
+   Dominican officials said 128 bodies had been recovered. A
+<ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX> spokesman said local people in boats appeared to have
+stripped some bodies of money and identification.
+<p>
+   After the crash, the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX> asked for help from the
+<ENAMEX TYPE="ORGANIZATION">National Transportation Safety Board</ENAMEX>, which in turn called in the
+<ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX>.
+<p>
+   Capt. <ENAMEX TYPE="PERSON">Raymond Scott McCord</ENAMEX>, supervisor of the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX>'s salvage and
+diving operations, said at a briefing here on <TIMEX TYPE="DATE">Thursday</TIMEX> that the
+<ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 went down in an area where the water is from 1,000 feet
+to 13,000 feet deep, with the sea bottom flat in some parts and
+jagged in others.
+<p>
+   Although <ENAMEX TYPE="PERSON">McCord</ENAMEX> said the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> had retrieved wreckage in more
+challenging places, he declined to predict the likelihood of
+success in recovering the black box in this case, or what it would
+cost.
+<p>
+   The black boxes on passenger jets are equipped with metal
+cylinders that emit a ``ping'' sound when immersed in water.
+<p>
+   So far, the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> has sent a Towed Ping Locator System, also
+known as a tow fish, to the area. The device is pulled on a cable,
+about 2,500 feet above the ocean floor, at 2 to 3 knots, and,
+depending on water conditions, it can hear the pinger on the black
+box at a distance of up to a mile.
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> officials and aviation experts plan to review air traffic
+control radar and other data in an effort to narrow the search
+area. When they finish, probably on <TIMEX TYPE="DATE">Tuesday</TIMEX> or <TIMEX TYPE="DATE">Wednesday</TIMEX>, they will
+begin surveying the ocean, he said.
+<p>
+   ``Looking for anything on the ocean floor is very difficult,
+because you are working blind,'' he said. ``The analogy is a needle
+in a haystack. But with a pinger locator, you know which side of
+the haystack you're looking at.''
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> also showed off a bigger robot probe that would carry
+out the next step, making sonar maps of the bottom, to locate the
+debris fields. A third remote-controlled device, with video and
+still cameras and manipulator arms, would then be sent down. All
+three are towed by a ship, and the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> is now negotiating with
+commercial ship owners for a suitable vessel, <ENAMEX TYPE="PERSON">McCord</ENAMEX> said.
+<p>
+   No one would say what such an operation would cost.
+<p>
+   At the <ENAMEX TYPE="ORGANIZATION">National Transportation Safety Board</ENAMEX>, <ENAMEX TYPE="PERSON">Michael Benson</ENAMEX>, a
+spokesman, said, ``any costs are expected to be incurred on a
+cost-sharing basis.''
+<p>
+   ``We certainly have a strong interest in that aircraft; it's our
+aircraft,'' he said.
+<p>
+   ``There are others who have an equally strong interest,'' he
+said, citing ``countries and corporate entities.'' These would
+apparently include <ENAMEX TYPE="LOCATION">Germany</ENAMEX>, <ENAMEX TYPE="LOCATION">Turkey</ENAMEX>, the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>, <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX>,
+<ENAMEX TYPE="ORGANIZATION">Alas de Transporte Internacional</ENAMEX>, which leased the plane, and
+<ENAMEX TYPE="ORGANIZATION">Birgenair</ENAMEX>, a small Turkish company that owned the plane and
+provided the crew.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">02-08-96</TIMEX> <TIMEX TYPE="TIME">2101EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960222.0661 </DOCID>
+<STORYID cat=a pri=u> A3301 </STORYID>
+<SLUG fv=taf-z> BC-<ENAMEX TYPE="LOCATION">COLOMBIA</ENAMEX>-AIRCRASH-NYT </SLUG>
+<DATE> <TIMEX TYPE="DATE">02-22</TIMEX> </DATE>
+<NWORDS> 0719 </NWORDS>
+<PREAMBLE>
+BC-<ENAMEX TYPE="LOCATION">COLOMBIA</ENAMEX>-AIRCRASH-NYT
+(EXCLUSIVE; <TIMEX TYPE="TIME">10 p.m. ET</TIMEX> EMBARGO)
+JET THAT CRASHED IN <ENAMEX TYPE="LOCATION">COLOMBIA</ENAMEX> REPORTEDLY STRIPPED OF PARTS
+(HLW)
+By <ENAMEX TYPE="PERSON">MATTHEW L. WALD</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">WASHINGTON</ENAMEX>  &MD;  Scavengers have descended on the wreckage of the
+<ENAMEX TYPE="ORGANIZATION">American Airlines</ENAMEX> jetliner that crashed in <ENAMEX TYPE="LOCATION">Colombia</ENAMEX> <TIMEX TYPE="DATE">last December</TIMEX>,
+making off with more than 500 parts, including the jet engines, the
+landing gear, and electronic components for possible sale to other
+carriers, the airline said.
+<p>
+   A spokesman for the airline said that to its knowledge, no parts
+of the plane had yet been offered for sale, and on <TIMEX TYPE="DATE">Thursday</TIMEX> the
+<ENAMEX TYPE="ORGANIZATION">Federal Aviation Administration</ENAMEX> said it was notifying other
+airlines of the possibility.
+<p>
+   Not long after the <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 jetliner crashed <TIMEX TYPE="DATE">last Dec. 20</TIMEX> in a
+remote mountain area near <ENAMEX TYPE="LOCATION">Buga</ENAMEX>, <ENAMEX TYPE="LOCATION">Colombia</ENAMEX>, killing 160 of the 164
+people on board, the Colombian authorities said people were taking
+valuables from the bodies of the dead passengers as well as the
+luggage.
+<p>
+   <TIMEX TYPE="DATE">Last month</TIMEX>, the airline sent other airlines and aviation
+companies an 11-page list of the missing parts and their serial
+numbers along with a letter warning: ``These parts could pose a
+significant safety risk should they be installed on other aircraft
+since they were involved in a crash.''
+<p>
+   <ENAMEX TYPE="PERSON">John Hotard</ENAMEX>, a spokesman for <ENAMEX TYPE="ORGANIZATION">American</ENAMEX>, said by telephone: ``You
+may have a part that looks perfectly good on the outside, but if
+you get into some of the sophisticated testing, you may find out
+it's not good.''
+<p>
+   Although the plane was a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757, flying from <ENAMEX TYPE="LOCATION">Miami</ENAMEX> to <ENAMEX TYPE="LOCATION">Cali</ENAMEX>,
+many of the parts would also fit a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 767.
+<p>
+   The airline's letter, first reported in The Cleveland Plain
+Dealer, noted: ``Any part taken from the crash site and/or offered
+for sale without the express written approval of <ENAMEX TYPE="ORGANIZATION">American Airlines
+Inc.</ENAMEX>, should be considered a stolen aircraft part.'' It cited
+sections of federal law that made such activity illegal and
+threatened that any supplier caught handling any of the parts would
+be barred from doing business with <ENAMEX TYPE="ORGANIZATION">American</ENAMEX>.
+<p>
+   <ENAMEX TYPE="PERSON">Hotard</ENAMEX> said that <ENAMEX TYPE="ORGANIZATION">American</ENAMEX> was not interested in the salvage
+value of the parts but that some could be sold for a lot of money
+if passed off as being in good condition. Testifying before a
+<ENAMEX TYPE="ORGANIZATION">Senate</ENAMEX> aviation subcommittee <TIMEX TYPE="DATE">last June</TIMEX>, federal investigators said
+various small parts of airplanes that are worth <NUMEX TYPE="MONEY">hundreds of dollars</NUMEX>
+in new condition, are available for a <NUMEX TYPE="MONEY">few dollars</NUMEX> from scrap
+dealers in the <ENAMEX TYPE="LOCATION">United States</ENAMEX> and may find their way back into
+airplanes, although the parts are not suitable.
+<p>
+   The local Colombian authorities did retrieve the black boxes
+with cockpit voice and flight data recordings, and technicians at
+the <ENAMEX TYPE="ORGANIZATION">National Transportation Safety Board</ENAMEX> in <ENAMEX TYPE="LOCATION">Washington</ENAMEX> have
+analyzed them. The safety board and the Colombian authorities
+recently said there did not appear to be any mechanical problem
+with the plane before the crash.
+<p>
+   That means that the stolen parts would probably not be useful in
+determining the cause of this crash. In some other crashes,
+investigators have sorted through tons of debris to find components
+that offer clues.
+<p>
+   Stealing parts from crash scenes is not new. When a Colombian
+DC-8 cargo plane crashed on <TIMEX TYPE="DATE">Feb. 5</TIMEX> in <ENAMEX TYPE="LOCATION">Asuncion</ENAMEX>, <ENAMEX TYPE="LOCATION">Paraguay</ENAMEX>, killing
+23 people, local television showed a man stealing engine parts from
+the debris, <ENAMEX TYPE="ORGANIZATION">The Associated Press</ENAMEX> reported. In the <ENAMEX TYPE="LOCATION">United States</ENAMEX>,
+crash scenes are usually cordoned off, in part to protect the
+evidence and to prevent the spread of blood-borne infection.
+<p>
+   A spokesman for the <ENAMEX TYPE="ORGANIZATION">Boeing Co.</ENAMEX>, <ENAMEX TYPE="PERSON">Richard F. Schleh</ENAMEX>, said the
+company had helped <ENAMEX TYPE="ORGANIZATION">American</ENAMEX> distribute its letter, which he
+described as ``a very good precautionary effort.''
+<p>
+   <ENAMEX TYPE="PERSON">Margaret Gilligan</ENAMEX>, the deputy associate administrator for
+regulation and certification at the aviation agency, said the
+agency did not believe that parts had been stolen from planes that
+had crashed in this country, but she said the agency did not know
+what happened abroad.
+<p>
+   <ENAMEX TYPE="PERSON">William A. Machado</ENAMEX>, who heads an <ENAMEX TYPE="ORGANIZATION">FAA</ENAMEX> program to investigate
+aircraft parts that are counterfeit or come from unapproved
+suppliers, said of the <ENAMEX TYPE="ORGANIZATION">American</ENAMEX> letter: ``It's the first time I've
+seen it, but I can understand their concern, because they really
+didn't have a lot of control.'' <ENAMEX TYPE="PERSON">Machado</ENAMEX> called the letter ``a
+responsible action on their part.''
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">02-22-96</TIMEX> <TIMEX TYPE="TIME">2132EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960224.0155 </DOCID>
+<STORYID cat=a pri=u> A4844 </STORYID>
+<SLUG fv=taf-z> BC-<ENAMEX TYPE="ORGANIZATION">NAVY</ENAMEX>-JET-CRASHES-NYT </SLUG>
+<DATE> &LR; </DATE>
+<NWORDS> <TIMEX TYPE="DATE">02-24</TIMEX> </NWORDS>
+<PREAMBLE>
+BC-<ENAMEX TYPE="ORGANIZATION">NAVY</ENAMEX>-JET-CRASHES-NYT
+<ENAMEX TYPE="ORGANIZATION">NAVY</ENAMEX> RESTRICTS FLIGHTS OF TROUBLE-PLAGUED F-14
+(kd)
+By <ENAMEX TYPE="PERSON">PHILIP SHENON</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">WASHINGTON</ENAMEX>  &MD;  The <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> imposed new restrictions <TIMEX TYPE="DATE">Saturday</TIMEX> on
+pilots who fly the F-14 jet fighter, after three of the
+trouble-plagued jets crashed in <TIMEX TYPE="DATE">the last month</TIMEX>, killing four <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX>
+airmen and three civilians.
+<p>
+   While the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> said it had found no common thread in the recent
+crashes, it announced that it had placed temporary limitations on
+the speed at which F-14s could be flown, and on the use of
+afterburners, which give a plane extra thrust by injecting fuel
+into hot exhaust gases.
+<p>
+   All F-14 pilots will also be required to undergo refresher
+safety courses before they are allowed to fly again, a requirement
+that could keep some grounded for <TIMEX TYPE="DATE">several more days</TIMEX>.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> made the announcement as it ended a three-day worldwide
+shutdown on operations of the carrier-based F-14 Tomcat.
+<p>
+   In recent years the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX>'s fleet of more than 330 F-14s has
+suffered a series of catastrophic accidents, including a crash on
+<TIMEX TYPE="DATE">Jan. 29</TIMEX> in which one of the early models of the fighter, an F-14A,
+smashed into a residential neighborhood in <ENAMEX TYPE="LOCATION">Nashville</ENAMEX>, killing the
+two-man crew and three civilians on the ground.
+<p>
+   On <TIMEX TYPE="DATE">Feb. 18</TIMEX>, one of the latest models, an F-14D, went down off
+the coast of <ENAMEX TYPE="LOCATION" MIN="California">southern California</ENAMEX>, killing its two-person crew.
+<p>
+   On <TIMEX TYPE="DATE">Thursday</TIMEX>, an F-14A crashed into the <ENAMEX TYPE="LOCATION">Persian Gulf</ENAMEX>; the pilot
+and radar operator survived with only minor injuries.
+<p>
+   The F-14 has the highest accident rate among <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> combat planes,
+and its problems have mounted even as the overall safety record for
+<ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> planes has improved dramatically in recent years. Ten F-14s
+have gone down in <TIMEX TYPE="DATE">the past two years</TIMEX>, and 32 since <TIMEX TYPE="DATE">1991</TIMEX>. Each plane
+costs more than <NUMEX TYPE="MONEY">$30 million</NUMEX>.
+<p>
+   In announcing the three-day halt to operations <TIMEX TYPE="DATE">last week</TIMEX>, the
+Chief of <ENAMEX TYPE="ORGANIZATION">Naval Operations</ENAMEX>, Adm. <ENAMEX TYPE="PERSON">Jeremy M. Boorda</ENAMEX>, said that the
+F-14 was ``an airplane that we worry about.'' Earlier models of the
+plane had engines that were not powerful enough for a fighter of
+its size, which led to restrictions on their use and, in some
+cases, replacement of the engine.
+<p>
+   In a statement <TIMEX TYPE="DATE">Saturday</TIMEX>, the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> said that the new restrictions
+on speed and on the use of afterburners would remain in effect
+until the investigations of the three recent crashes had ended. The
+statement did not rule out permanent restrictions in the future.
+<p>
+   ``It should be emphasized that the investigations continue to
+determine causes and any permanent corrective action required,''
+the <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> said. ``The requirements and limitations placed in effect
+<TIMEX TYPE="DATE">today</TIMEX> are intended to permit safe operation of the F-14 aircraft
+pending completion of the investigations.''
+<p>
+   Under the restrictions, F-14 fighters cannot fly more than 550
+nautical miles an hour, below an altitude of 10,000 feet.
+Restrictions on the use of afterburners apply to later models of
+the plane.
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> officials said <TIMEX TYPE="DATE">Saturday</TIMEX> that the restrictions would not
+affect the plane's usefulness, since the limitations would be
+immediately waived in combat. ``If a pilot is out there and needs
+to fly his airplane, he's going to fly his airplane as he needs
+to,'' said a <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> spokesman.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">House National Security Committee</ENAMEX> has announced that
+hearings would be held <TIMEX TYPE="DATE">next week</TIMEX> on the safety record of the F-14.
+The panel is expected to hear testimony from <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> officials, pilots
+and representatives of the manufacturer, the <ENAMEX TYPE="ORGANIZATION">Grumman Corp.</ENAMEX>, which
+merged with <ENAMEX TYPE="ORGANIZATION">Northrop</ENAMEX> in <TIMEX TYPE="DATE">1994</TIMEX>.
+<p>
+   The two <ENAMEX TYPE="ORGANIZATION">House</ENAMEX> Republicans who are sponsoring the hearings,
+<ENAMEX TYPE="PERSON">Duncan Hunter</ENAMEX> and <ENAMEX TYPE="PERSON">Randy Cunningham</ENAMEX>, both from <ENAMEX TYPE="LOCATION">California</ENAMEX>, said in a
+statement that ``too many lives and too much equipment has been
+lost'' in F-14 crashes. Although the plane's problems precede the
+<ENAMEX TYPE="PERSON">Clinton</ENAMEX> administration by many years, the lawmakers said that they
+planned to investigate whether the administration ``is underfunding
+both the readiness and modernization of <ENAMEX TYPE="ORGANIZATION">Navy</ENAMEX> aircraft.''
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">02-24-96</TIMEX> <TIMEX TYPE="TIME">1657EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960301.0672 </DOCID>
+<STORYID cat=a pri=u> A1897 </STORYID>
+<SLUG fv=taf-z> BC-737-AIRCRASH-PROBE-NY </SLUG>
+<DATE> <TIMEX TYPE="DATE">03-01</TIMEX> </DATE>
+<NWORDS> 0700 </NWORDS>
+<PREAMBLE>
+BC-737-AIRCRASH-PROBE-NYT
+RARE TESTING ON A 737 SEEKS ELUSIVE ANSWERS TO A CRASH
+(bl)
+By <ENAMEX TYPE="PERSON">MATTHEW L. WALD</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX> 
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">WASHINGTON</ENAMEX>  &MD;  Air safety investigators have begun highly unusual
+tests on a parked <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 737, forcing parts askew with hydraulic
+arms and clipping vital control cables in an effort to determine
+why a sister plane owned by <ENAMEX TYPE="ORGANIZATION">USAir</ENAMEX> fell out of the sky near
+<ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> in <TIMEX TYPE="DATE">September 1994</TIMEX>.
+<p>
+   The investigation of that crash, which killed all 132 people on
+board, is already the most extensive in the history of the <ENAMEX TYPE="ORGANIZATION">National
+Transportation Safety Board</ENAMEX>. And in a way it is the most worrisome,
+because the 737 is the most popular jet in the sky.
+<p>
+   The board finds the cause of almost all crashes by looking at
+the wreckage, the flight data recorders, radar records and similar
+evidence. But in this case, that has not been enough in this case.
+<p>
+   ``What we're doing to this airplane is unprecedented,'' said
+<ENAMEX TYPE="PERSON">James Hall</ENAMEX>, the safety board's chairman.
+<p>
+   <ENAMEX TYPE="PERSON">Hall</ENAMEX> said investigators had already invested more than 50,000
+hours of engineering time in trying to find the cause of the crash,
+making the inquiry the longest and costliest in the board's <TIMEX TYPE="DATE">29-year</TIMEX>
+history.
+<p>
+   The 737 that crashed was approaching <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> when it abruptly
+rolled to the left and plunged to the ground at 300 miles an hour.
+<p>
+   Investigators say that its trajectory through the sky can be
+explained by a sustained swing of the rudder  &MD;  the moveable surface
+on the vertical tail  &MD;  and by nothing else that they can identify.
+<p>
+   It is not clear, though, how the rudder could have
+malfunctioned.
+<p>
+   So technicians have pulled the floor out of the passenger cabin
+of the test plane, enabling them to see the cables that link the
+pedals at the pilot's feet with the rudder in the back of the
+plane.
+<p>
+   If the cables do not snap because of the forces applied to them
+during the tests, engineers will cut them and measure the sound.
+The goal is to try to duplicate sounds captured by the cockpit
+voice recorder just before the crash, and to see what effect a
+snapped cable might have had on the plane.
+<p>
+   The investigators are using a plane that <ENAMEX TYPE="ORGANIZATION">USAir</ENAMEX> had removed from
+service and is planning to donate to the <ENAMEX TYPE="ORGANIZATION">Museum of Flight</ENAMEX>, in
+<ENAMEX TYPE="LOCATION">Seattle</ENAMEX>. The museum is across a runway from a <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> plant, and
+<ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> is assisting in the new experiments.
+<p>
+   The plane that crashed carried an early-model flight data
+recorder, which captured only 11 kinds of data. It did not record
+the position of the rudder or of the rudder controls. In contrast,
+newer data recorders capture dozens of kinds of data, and usually
+point investigators toward the root of the problem very quickly.
+<p>
+   For example, the recorder in the <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 that crashed off the
+coast of the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX> <TIMEX TYPE="DATE">last month</TIMEX> had 72 kinds of data.
+<p>
+   Speaking by telephone from <ENAMEX TYPE="LOCATION">Seattle</ENAMEX> as the tests began <TIMEX TYPE="DATE">Thursday</TIMEX>,
+<ENAMEX TYPE="PERSON">Hall</ENAMEX> said, ``I just hope the aircraft industry and the <ENAMEX TYPE="ORGANIZATION">Federal
+Aviation Administration</ENAMEX> will take appropriate action so we are
+never in a position again where it would take us this much time and
+effort.''
+<p>
+   But the airlines argue that wiring planes to capture more data
+would require taking them out of service for long periods, at high
+cost.
+<p>
+   The plane being used for the new tests has been extensively
+outfitted with instruments. ``It looks like somebody on life
+support,'' said <ENAMEX TYPE="PERSON">Hall</ENAMEX>, referring to the bundles of wires that are
+now attached.
+<p>
+   Investigators are looking for some combination of problems on
+three systems that can move the plane: the main rudder-control
+mechanism, a backup mechanism and a yaw damper, which is a
+computer-operated automatic system that makes small adjustments in
+the rudder to keep the plane's nose and tail lined up in precisely
+the direction that the plane is moving.
+<p>
+   One reason for the new tests is that investigators say they may
+not fully understand the significance of an event that occurred
+just before the crash: the <ENAMEX TYPE="ORGANIZATION">USAir</ENAMEX> plane ran over the wake of a
+<ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 737 flying 4.2 nautical miles ahead.
+<p>
+   Such wake encounters are common, but investigators think this
+one may have put a force on the plane that somehow triggered a
+fatal chain of events.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">03-01-96</TIMEX> <TIMEX TYPE="TIME">2134EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960301.0686 </DOCID>
+<STORYID cat=a pri=r> A1908 </STORYID>
+<SLUG fv=tth-z> BC-AIRLINE-CRASHES-SPI </SLUG>
+<DATE> &LR; </DATE>
+<NWORDS> <TIMEX TYPE="DATE">03-01</TIMEX> </NWORDS>
+<PREAMBLE>
+BC-AIRLINE-CRASHES-SPI
+LATEST CRASHES RENEW CONCERNS ABOUT AVIATION SAFETY
+(For use by <ENAMEX TYPE="ORGANIZATION">New York Times News Service</ENAMEX> clients.)
+By <ENAMEX TYPE="PERSON">BILL VIRGIN</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">Seattle Post-Intelligencer</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">SEATTLE</ENAMEX>  &MD;  Commercial aviation worldwide is off to a rocky start
+in <TIMEX TYPE="DATE">1996</TIMEX>, with two major crashes <TIMEX TYPE="DATE">this month</TIMEX> alone claiming 312
+lives.
+<p>
+   Other forms of transportation aren't faring much better. In the
+<ENAMEX TYPE="LOCATION">United States</ENAMEX> alone, railroad accidents have accounted for 19
+deaths, 226 injuries and more than <NUMEX TYPE="MONEY">$62 million</NUMEX> in damage, <ENAMEX TYPE="ORGANIZATION">National
+Transportation Safety Board</ENAMEX> Chairman <ENAMEX TYPE="PERSON">James Hall</ENAMEX> said <TIMEX TYPE="DATE">this week</TIMEX>.
+<p>
+   And while crashes of airline flights get the most attention,
+general aviation is usually deadlier. <TIMEX TYPE="DATE">Last year</TIMEX>, the <ENAMEX TYPE="ORGANIZATION">NTSB</ENAMEX> says, 732
+people died in general aviation accidents, compared with 175 deaths
+from accidents involving scheduled <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> airlines. For the worst
+carnage, <ENAMEX TYPE="LOCATION">America</ENAMEX>'s highways are still unrivaled, with 40,000 deaths
+reported from motor vehicle accidents each year.
+<p>
+   Still, news of jet crashes renew questions and concerns about
+aviation safety, particularly when it comes in spates and
+particularly in a city like <ENAMEX TYPE="LOCATION">Seattle</ENAMEX>, home to the world's biggest
+manufacturer of commercial jet aircraft.
+<p>
+   The crash of a passenger jet anywhere ``is something that
+galvanizes attention,'' said <ENAMEX TYPE="PERSON">John Nance</ENAMEX>, an aviation safety expert
+and writer.
+<p>
+   The latest crash  &MD;  that of a <ENAMEX TYPE="ORGANIZATION">Faucett Airlines</ENAMEX>-operated <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX>
+737 in <ENAMEX TYPE="LOCATION">Peru</ENAMEX>, which killed 123 aboard  &MD;  came on the heels of an <ENAMEX TYPE="ORGANIZATION">NTSB</ENAMEX>
+news conference in <ENAMEX TYPE="LOCATION">Seattle</ENAMEX> <TIMEX TYPE="DATE">this week</TIMEX> detailing its lack of success
+in finding a cause for two <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> crashes of <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 737s, one in
+<TIMEX TYPE="DATE">1991</TIMEX>, the other in <TIMEX TYPE="DATE">1994</TIMEX>.
+<p>
+   Those two crashes are linked by the remaining mystery of the
+cause, the fact both involved 737s and the suspicion both crashes
+may be linked to a sudden movement of the rudder, sending the
+planes into uncontrollable rolls.
+<p>
+   But there seems to be little commonality in the three most
+recent crashes, either by plane type or suspected cause. The crash
+of an <ENAMEX TYPE="ORGANIZATION">American Airlines</ENAMEX> <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 in <ENAMEX TYPE="LOCATION">Colombia</ENAMEX> in <TIMEX TYPE="DATE">December</TIMEX>, which
+killed 160 people, occurred as the plane was approaching the
+airport; pilot error is suspected.
+<p>
+   A <TIMEX TYPE="DATE">Feb. 6</TIMEX> crash of a <ENAMEX TYPE="ORGANIZATION">Birgen Air</ENAMEX>-owned <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 757 occurred as the
+plane was taking off from the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX>; that crash
+claimed 189 lives. Authorities in the <ENAMEX TYPE="LOCATION">Dominican Republic</ENAMEX> say the
+recorded air speed indicator at the time the plane stopped climbing
+was much higher than what ground radar showed, which would suggest
+pilots thought they were going faster  &MD;  and had more power to climb
+ &MD;  than they actually did.
+<p>
+   The investigation has just begun in the <ENAMEX TYPE="LOCATION">Peru</ENAMEX> crash, but some
+witnesses say the plane was on fire before it hit the ground.
+<p>
+   <ENAMEX TYPE="PERSON">Nance</ENAMEX> said there's no apparent common thread running through
+those three accidents. ``The only other common denominator (would
+be) the human factor, and it's been known for a long time that
+human factors account for <NUMEX TYPE="PERCENT">90 percent</NUMEX> of accidents,'' he said.
+``It's still the thing that gets us. We're getting better at it,
+but we're not as perfect as the machines we build.''
+<p>
+   <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> has assisted in the investigation of the <ENAMEX TYPE="LOCATION">Dominican
+Republic</ENAMEX> crash and spokesman <ENAMEX TYPE="PERSON">Russ Young</ENAMEX> said a team is being sent
+to <ENAMEX TYPE="LOCATION">Peru</ENAMEX>.
+<p>
+   Until the <ENAMEX TYPE="LOCATION">Colombia</ENAMEX> crash, the 757 hadn't been involved in any
+fatal crashes in its <TIMEX TYPE="DATE">13 years</TIMEX> of flying. The 737, which in various
+models has been in service for <TIMEX TYPE="DATE">28 years</TIMEX>, is the world's
+best-selling commercial aircraft.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Federal Aviation Administration</ENAMEX> hasn't issued any directives
+in relation to the three most recent crashes. ``It's way too early
+for that,'' said <ENAMEX TYPE="ORGANIZATION">FAA</ENAMEX> spokesman <ENAMEX TYPE="PERSON">Tim Pile</ENAMEX>. ``We would need some kind
+of formal finding, unless it was really obvious there was some
+problem with the aircraft.''
+<p>
+   <TIMEX TYPE="DATE">Last year</TIMEX>, the <ENAMEX TYPE="ORGANIZATION">International Civil Aviation Organization</ENAMEX>
+reported, there were 26 accidents involving scheduled aircraft,
+resulting in 710 fatalities; that was down from 941 <TIMEX TYPE="DATE">the year
+before</TIMEX>.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">03-01-96</TIMEX> <TIMEX TYPE="TIME">2147EST</TIMEX>
+</TRAILER>
+</DOC>
+<DOC>
+<DOCID> nyt960403.0586 </DOCID>
+<STORYID cat=i pri=u> A7900 </STORYID>
+<SLUG fv=taf-z> BC-CRASH-PLANE-NYT </SLUG>
+<DATE> &LR; </DATE>
+<NWORDS> <TIMEX TYPE="DATE">04-03</TIMEX> </NWORDS>
+<PREAMBLE>
+BC-CRASH-PLANE-NYT
+TWO PRIOR CRASHES OF 737S STILL UNSOLVED
+(With CRASH-<ENAMEX TYPE="PERSON">BROWN</ENAMEX>-NYT)
+(HLW)
+By <ENAMEX TYPE="PERSON">MATTHEW L. WALD</ENAMEX>
+c.<TIMEX TYPE="DATE">1996</TIMEX> <ENAMEX TYPE="ORGANIZATION">N.Y. Times News Service</ENAMEX>
+</PREAMBLE>
+<TEXT>
+<p>
+   <ENAMEX TYPE="LOCATION">WASHINGTON</ENAMEX>  &MD;  The <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> plane that crashed in <ENAMEX TYPE="LOCATION">Croatia</ENAMEX> on
+<TIMEX TYPE="DATE">Wednesday</TIMEX> was a modified version of the <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> 737, a widely used
+aircraft with one of the best safety records in the air. But two
+unexplained crashes in <TIMEX TYPE="DATE">the last five years</TIMEX>, in <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> and
+<ENAMEX TYPE="LOCATION">Colorado Springs</ENAMEX>, have raised questions about the 737's
+performance.
+<p>
+   Like the plane that crashed on <TIMEX TYPE="DATE">Wednesday</TIMEX>, those aircraft crashed
+while approaching airports for landing. But it is not known if
+there are any similarities between the crashes in the <ENAMEX TYPE="LOCATION">United States</ENAMEX>
+and the crash in <ENAMEX TYPE="LOCATION">Croatia</ENAMEX>.
+<p>
+   The investigators in the crash on <TIMEX TYPE="DATE">Wednesday</TIMEX> may be lacking one
+basic tool available to those probing the civilian crashes. The <ENAMEX TYPE="ORGANIZATION">Air
+Force</ENAMEX> public affairs office at the <ENAMEX TYPE="ORGANIZATION">Pentagon</ENAMEX> said that the plane,
+like many of its aircraft, did not carry a cockpit voice recorder
+or a flight data recorder, which are commonly known as black boxes.
+However, a spokesman for the <ENAMEX TYPE="ORGANIZATION">U.S. European Command</ENAMEX>, in <ENAMEX TYPE="LOCATION">Stuttgart</ENAMEX>,
+<ENAMEX TYPE="LOCATION">Germany</ENAMEX>, contradicted that, saying such equipment was aboard.
+<p>
+   The <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> crash, of a <ENAMEX TYPE="ORGANIZATION">USAir</ENAMEX> flight from <ENAMEX TYPE="LOCATION">Chicago</ENAMEX> that
+crashed on an airport approach in <TIMEX TYPE="DATE">1994</TIMEX>, is the most intensively
+studied crash in the history of American civil aviation, but safety
+experts still do not know what caused it. The <ENAMEX TYPE="LOCATION">Colorado Springs</ENAMEX>
+crash, in <TIMEX TYPE="DATE">1991</TIMEX>, is also unexplained; transportation officials hope
+the investigation of the <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> crash will help explain it.
+<p>
+   The 737 is the single most popular commercial jet, and it makes
+up about a quarter of the American airline jet fleet. <ENAMEX TYPE="ORGANIZATION">Boeing</ENAMEX> has
+sold over 1,100 of the 737-200s, the model that crashed on
+<TIMEX TYPE="DATE">Wednesday</TIMEX>, and over 2,800 of all types of 737s, with 500 more on
+order.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> bought 19, including the one that crashed on
+<TIMEX TYPE="DATE">Wednesday</TIMEX>, for <NUMEX TYPE="MONEY">$5.4 million</NUMEX> each, and they were delivered in <TIMEX TYPE="DATE">1973</TIMEX>
+and <TIMEX TYPE="DATE">1974</TIMEX>. Most are used for training navigators. Until <TIMEX TYPE="DATE">Wednesday</TIMEX>,
+the <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> had never had a crash involving the planes, or indeed
+any incident that resulted in a death or permanent disability.
+<p>
+   The plane that crashed had recorded 12,000 landings and 17,000
+hours of flight, which made it a relatively young aircraft, said
+Maj. <ENAMEX TYPE="PERSON">Laura J. Feldman</ENAMEX>, a spokesman for the <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX>. The plane was
+flying from <ENAMEX TYPE="LOCATION">Tuzla</ENAMEX> to <ENAMEX TYPE="LOCATION">Dubrovnik</ENAMEX>, a 45-minute trip.
+<p>
+   Among the characteristics that make the 737 desirable for the
+<ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> is its ability to operate from short, rough airfields.
+<p>
+   The plane that crashed, called a T-43 by the <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX>, was set
+up to carry about 60 passengers. It had fewer windows than the
+airline model and some extra electronic equipment protruding from
+its stubby, 100-foot-long body.
+<p>
+   The plane had been used in <ENAMEX TYPE="LOCATION">Bosnia</ENAMEX> in recent weeks to ferry
+American and <ENAMEX TYPE="ORGANIZATION">NATO</ENAMEX> dignitaries to and from airports where many
+runways have been scarred by civil war. <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> officials say
+that Secretary of <ENAMEX TYPE="ORGANIZATION">State</ENAMEX> <ENAMEX TYPE="PERSON">Warren Christopher</ENAMEX> flew aboard the plane
+during a visit to the <ENAMEX TYPE="LOCATION">Balkans</ENAMEX> <TIMEX TYPE="DATE">earlier this year</TIMEX>.
+<p>
+   The plane had been used <TIMEX TYPE="DATE">earlier this week</TIMEX> to ferry <ENAMEX TYPE="ORGANIZATION">Defense</ENAMEX>
+Secretary <ENAMEX TYPE="PERSON">William Perry</ENAMEX> on trips within the <ENAMEX TYPE="LOCATION">Balkans</ENAMEX>  &MD;  from <ENAMEX TYPE="LOCATION">Zagreb</ENAMEX>,
+the Croatian capital, to <ENAMEX TYPE="LOCATION">Tuzla</ENAMEX> and <ENAMEX TYPE="LOCATION">Sarajevo</ENAMEX> in <ENAMEX TYPE="LOCATION">Bosnia</ENAMEX>, and then to
+<ENAMEX TYPE="LOCATION">Tirana</ENAMEX>, <ENAMEX TYPE="LOCATION">Albania</ENAMEX>, and from <ENAMEX TYPE="LOCATION">Albania</ENAMEX> to <ENAMEX TYPE="LOCATION">Cairo</ENAMEX> on <TIMEX TYPE="DATE">Tuesday</TIMEX>. Military
+officials said that the plane then returned to <ENAMEX TYPE="LOCATION">Zagreb</ENAMEX> to pick up
+<ENAMEX TYPE="ORGANIZATION">Commerce</ENAMEX> Secretary <ENAMEX TYPE="PERSON">Ron Brown</ENAMEX> and his delegation.
+<p>
+   For security, the crew minimized time at low altitudes, to limit
+the possibility of the plane being hit by gunfire or shells fired
+by rebel forces, according to officials.
+<p>
+   The plane, clearly marked with a <ENAMEX TYPE="LOCATION">U.S.</ENAMEX> flag on its tail and the
+bold lettering ``<ENAMEX TYPE="LOCATION">United States of America</ENAMEX>'' on its side, was based
+at <ENAMEX TYPE="LOCATION">Ramstein Air Base</ENAMEX>, in <ENAMEX TYPE="LOCATION">Germany</ENAMEX>, as was its crew. The civilian
+version has a crew of three; the <ENAMEX TYPE="ORGANIZATION">Air Force</ENAMEX> said that the plane that
+crashed had six crewmen on board.
+<p>
+   Investigators working on the <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX> crash say they believe
+that the aircraft's trajectory on <TIMEX TYPE="DATE">Wednesday</TIMEX> can be explained only
+by a sudden, full swing of the rudder on its tail, but the parts
+that survived the wreckage do not provide any physical evidence
+that this actually occurred, and the flight data recorder was not
+sophisticated enough to record the information.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">National Transportation Safety Board</ENAMEX>, the independent
+federal agency in charge of investigating civilian aircraft
+accidents, hopes to finish the investigation and reach a conclusion
+<TIMEX TYPE="DATE">this year</TIMEX>.
+<p>
+   Apart from <ENAMEX TYPE="LOCATION">Colorado Springs</ENAMEX> and <ENAMEX TYPE="LOCATION">Pittsburgh</ENAMEX>, the agency has only
+three unsolved crashes in its <TIMEX TYPE="DATE">29-year</TIMEX> history.
+<p>
+   The <ENAMEX TYPE="ORGANIZATION">Safety Board</ENAMEX> is sending several investigators with the
+military team to look into the crash.
+</TEXT>
+<TRAILER>
+NYT-<TIMEX TYPE="DATE">04-03-96</TIMEX> <TIMEX TYPE="TIME">2047EST</TIMEX>
+</TRAILER>
+</DOC>
